@@ -1,0 +1,10 @@
+
+
+.Mar1{
+    display: flex;
+    flex-direction: row;
+    gap: 500px;
+    place-items: center ;
+    height: auto;
+    background-color: black;
+}
